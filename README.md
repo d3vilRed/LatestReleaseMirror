@@ -157,28 +157,28 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="therealaleph--masterhttprelayvpn-rust"></div>
+<div id="2dust--v2rayn"></div>
 
-### therealaleph--MasterHttpRelayVPN-RUST
+### 2dust--v2rayN
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.18</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.18)
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.20.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.20.4)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.18.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.18.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.18.apk` | 16.1 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.18.apk) |
-| `mhrv-rs-android-universal-v1.9.18.apk` | 41.1 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.18.apk) |
-| `mhrv-rs-android-x86-v1.9.18.apk` | 19.3 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.18.apk) |
-| `mhrv-rs-android-x86_64-v1.9.18.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.18.apk) |
-| `mhrv-rs-linux-amd64.tar.gz` | 9.8 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
-| `mhrv-rs-linux-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
-| `mhrv-rs-linux-musl-amd64.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
-| `mhrv-rs-linux-musl-arm64.tar.gz` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-arm64.tar.gz) |
-| `mhrv-rs-macos-amd64.tar.gz` | 7.2 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
-| `mhrv-rs-macos-amd64-app.zip` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
-| `mhrv-rs-macos-arm64.tar.gz` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
-| `mhrv-rs-macos-arm64-app.zip` | 4.6 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
-| `mhrv-rs-openwrt-mipsel-softfloat.tar.gz` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-openwrt-mipsel-softfloat.tar.gz) |
-| `mhrv-rs-raspbian-armhf.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-raspbian-armhf.tar.gz) |
-| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `v2rayN-linux-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.001) |
+| `v2rayN-linux-64.zip (part 2 of 2)` | 22.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-64.zip.002) |
+| `v2rayN-linux-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.001) |
+| `v2rayN-linux-arm64.zip (part 2 of 2)` | 16.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-linux-arm64.zip.002) |
+| `v2rayN-macos-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.001) |
+| `v2rayN-macos-64.zip (part 2 of 2)` | 22.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-64.zip.002) |
+| `v2rayN-macos-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.001) |
+| `v2rayN-macos-arm64.zip (part 2 of 2)` | 16.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-macos-arm64.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 21.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.001) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 53.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-arm64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.001) |
+| `v2rayN-windows-arm64-desktop.zip (part 2 of 2)` | 13.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64-desktop.zip.002) |
+| `v2rayN-windows-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.001) |
+| `v2rayN-windows-arm64.zip (part 2 of 2)` | 43.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/d3vilRed/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-arm64.zip.002) |
 <!-- RELEASES_END -->
